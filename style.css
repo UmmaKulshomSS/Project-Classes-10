@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fullwebsite{
+    max-width: 55%;
+    margin: auto;
+    text-align: center;
+}
+.logo{
+    background-color: #2e219a;
+    padding: 20px 0;
+}
+.logo img{
+    width: 70px;
+}
+.menu{
+    background-color: #ff0000;
+    padding: 20px 0;
+}
+.menu ul{
+    text-decoration: none;
+    color: #fff;
+}
+.menu ul li{
+    display: inline-block;
+    padding: 20px 10px;
+    font-size: 20px;
+    border-right: 1px solid #fff;
+}
+.menu ul li:last-child{
+    border: none;
+}
+.banner1{
+    background-image: url(https://i.ibb.co/3BgDKVC/banner1.jpg);
+    padding: 200px;
+    background-repeat: no-repeat;
+    color: #fff;
+    background-size: cover;
+}
+.banner1 h2{
+    font-size: 40px;
+}
+.banner1 p{
+    padding: 30px 0;
+}
+.banner1 button{
+    color: #fff;
+    background-color: #008000;
+    padding: 8px 30px;
+    border: none;
+}
+.banner2{
+    background-image: url(https://i.ibb.co/S3snqKd/banner2.jpg);
+    padding: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner2 h2{
+    color: #fff;
+    background-color: #008000;
+    font-size: 30px;
+}
+.banner2 p{
+    background-color: #ffff00;
+    margin: 30px 0;
+}
+.banner2 button{
+    color: #fff;
+    background-color: #000000;
+    padding: 8px 30px;
+    border: none;
+}
+.team{
+    background-color: #4ab75c;
+    padding: 50px 0;
+}
+.team h2{
+    font-size: 50px;
+    padding: 50px 0;
+    font-weight: unset;
+}
+.member1{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.photo{
+    width: 35%;
+    display: inline-block;
+}
+.photo img{
+    width: 116px;
+}
+.content{
+    width: 64%;
+    display: inline-block;
+    text-align: left;
+}
+.member2{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 35px;
+}
+.footer{
+    background-color: #2c1a8e;
+    padding: 10px 0;
+}
+.footer ul li{
+    display: inline-block;
+    color: #fff;
+    margin-right: 20px;
+    border: 1px solid #fff;
+    border-radius: 13px;
+    padding: 9px 15px;
+}
